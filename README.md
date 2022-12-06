@@ -7,5 +7,5 @@ Napraviti dva PubSub servisa koji mogu da opsluzuju proizvoljan broj klijenata. 
 - void Subscribe(void \*topic);
 - void Publisher(void * topic, void* message);
 
-Arhitektura Servisa
+# Arhitektura Servisa
 ![image](https://user-images.githubusercontent.com/17052851/206030929-9de3bf23-7e59-42ba-b309-4992e1910d77.png)
